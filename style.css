@@ -234,7 +234,7 @@ input{
 
 .dropdown{
     position: absolute;
-    top: 270px;
+    bottom: 40px;
     left: 0;
 
 }
