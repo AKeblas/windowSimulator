@@ -236,6 +236,7 @@ input{
     position: absolute;
     bottom: 40px;
     left: 0;
+    z-index: 16;
 
 }
 .dropdown1{
